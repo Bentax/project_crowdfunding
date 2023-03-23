@@ -2,3 +2,6 @@
 ![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
 
 ### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+```bash
+yarn dev --host
+```
